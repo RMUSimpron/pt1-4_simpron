@@ -1,0 +1,108 @@
+<html>
+	<head>
+	<link rel="stylesheet" href="StyleSheet.css">
+	</head>
+<body>
+<div class="nav">
+  <div class=logo><img src=logo.png class=images> </div>
+  
+  <ul>
+	<li><a href="#home">HOME</a></li>
+	<li><a href="#introduction">INTRODUCTION</a></li>
+	<li><a href="#hobbies">HOBBIES</a></li>
+	<li><a href="#games">GAMES</a></li>
+	<li><a href="#ld">LIKES AND DISLIKES</a></li>
+  </ul>
+  
+</div>
+
+<div class=content>
+
+	<div class=pic1></div>
+	<div class=p1 id="home">
+	
+	<h1>Home</h1>
+	
+	<p>
+		Welcome to my personal website. This website contains all the likes and dislikes,
+	hobbies, and basically everything there is to know about me. Although, things like
+	passwords and phone numbers won't appear hear. If you want to know a lot about me,
+	click on any of the links on the top of the page.
+	</p>
+	
+	</div>
+	
+	<div class=pic2><img src=pic1.jpg></div>
+	<div class=p2 id="introduction">
+	
+	<h1>Introduction</h1>
+	
+	<p>
+		Hi, my name is Rhygart Maverick Simpron. Like most kids, I'm often bored and try to
+	find ways on how to make myself occupied, learn more below. I'm 15 yrs old and I'm about to
+	reach my last year of highschool. I go to Don Bosco Technical College since I want to be an
+	engineer when I grow up. Other than wanting to be an engineer, I also have other interest, learn more below.
+	</p>
+	
+	</div>
+	
+	<div class=pic3><img src=pic2.png></div>
+	<div class=p3 id="hobbies">
+	
+	<h1>Hobbies</h1>
+	
+	<p>
+		My hobbies include:
+	</p>
+	
+	<ul>
+		<li>Playing computer games</li>
+		<li>Reading books</li>
+		<li>Watching TV</li>
+	</ul>
+	
+	</div>
+	
+	<div class=pic4><img src=pic3.png></div>
+	<div class=p4 id="games">
+	
+	<h1>Favorite Games</h1>
+	
+	<p>
+		A collection of my most favorite games include:
+	</p>
+	
+	<ul>
+		<li>Destiny 2</li>
+		<li>Roblox</li>
+		<li>Battlefield 2042</li>
+		<li>Geometry Dash</li>
+		<li>Minecraft</li>
+		<li>Star Wars Battlefront 2</li>
+		<li>Dauntless</li>
+		<li>Starcraft 2</li>
+		<li>Overwatch</li>
+		<li>GTA 5</li>
+		<li>For Honor</li>
+	</ul>
+	
+	</div>
+	
+	<div class=pic5></div>
+	<div class=p5 id="ld">
+	
+	<h1>Home</h1>
+	
+	<p>
+		Welcome to my personal website. This website contains all the likes and dislikes,
+	hobbies, and basically everything there is to know about me. Although, things like
+	passwords and phone numbers won't appear hear. If you want to know a lot about me,
+	click on any of the links on the top of the page.
+	</p>
+	
+	</div>
+
+</div>
+
+</body>
+</html>
