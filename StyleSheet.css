@@ -47,49 +47,79 @@
 .pic1 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: pic1;
 }
 
 .p1 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: p1;
 }
 
 .pic2 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: pic2;
 }
 
 .p2 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: p2;
 }
 
 .pic3 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: pic3;
 }
 
 .p3 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: p3;
 }
 
 .pic4 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: pic4;
 }
 
 .p4 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: p4;
 }
 
 .pic5 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: pic5;
 }
 
 .p5 {
 	padding-top:200px;
 	padding-bottom:200px;
+	grid-area: p5;
+}
+
+@media screen and (max-width:600px) {
+.container {
+	display: grid;
+	text-align: center;
+	grid-template-columns: 1fr;
+	grid-template-rows: 50px 100px 150px 100px 50px;
+	grid-template-areas:
+	"pic1"
+	"p1"
+	"pic2"
+	"p2"
+	"pic3"
+	"p3"
+	"pic4"
+	"p4"
+	"pic5"
+	"p5";
+}
 }
